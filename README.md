@@ -4,7 +4,8 @@
 
 > [!NOTE]
 > ### Sobre mi
-> Soy un desarrollador autodidacta y me encanta aprender sobre nuevas tecnologías, investigar como poder usar cada nueva carácteristica para facilitar el uso de una manera interactiva y moderna.
+> Desarrollador autodidacta apasionado por aprender nuevas tecnologías y con habilidades para investigar y aplicar conocimientos de forma que faciliten la interacción y modernización de sistemas. Experiencia en desarrollo de aplicaciones web Front-End y Back-End, con especial interés en mejorar la entrega de soporte TI a empresas.
+
 > - 👨‍💻 Me dedico al desarrollo de aplicaciones web FrontEnd & BackEnd además de entregar soporte TI a empresas.
 > - 📚 Actualmente estoy iniciando un bootcamp para aprender Java y Kubernettes de forma independiente 😅
 > - 💪🏼 Futuros objetivos: Aprender nuevas tecnologías y conseguir mejor oportunidades laborales.
