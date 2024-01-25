@@ -9,7 +9,6 @@
 > - 📚 Actualmente estoy iniciando un bootcamp para aprender Java y Kubernettes de forma independiente 😅
 > - 💪🏼 Futuros objetivos: Aprender nuevas tecnologías y conseguir mejor oportunidades laborales.
 > - ⚡ Mi diversion: Jugar en PC o Xbox 🎱.
-> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ---
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
