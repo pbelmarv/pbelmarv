@@ -22,6 +22,7 @@
 ### Herramientas
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker)](https://skillicons.dev)
 
+---
 > [!IMPORTANT]
 > Visita [mis Gists](https://gist.github.com/pbelmarv/), puede que alguno te sea útil
 ---
