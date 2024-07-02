@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,php,sqlite,sequelize,linux)](https://skillicons.dev)
 
 ### Herramientas
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,npm)](https://skillicons.dev)
 
 ---
 > [!IMPORTANT]
